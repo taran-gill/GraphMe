@@ -8,6 +8,7 @@
     "build": "cd ./GraphMe-Views && vue-cli-service build",
     "lint": "cd ./GraphMe-Views && vue-cli-service lint"
   },
+  "start": "npm install && cd ./GraphMe-Views && vue-cli-service build",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/taran-gill/GraphMe.git"
